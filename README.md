@@ -1,4 +1,4 @@
-### Hi there I'M Zahran Rafif - [ZOP-Zahran Rafif] (https://www.youtube.com/@ZOPZahranRafif)👋
+### Hi there I'M Zahran Rafif - [ZOP-Zahran Rafif](https://www.youtube.com/@ZOPZahranRafif)👋
 
 <!--
 **zahranrafif/zahranrafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Education:
 
-#### 1. [Universitas Muhammadiyah Yogyakarta](https://www.umy.ac.id) | Information Technology |
+#### 1. [Universitas Muhammadiyah Yogyakarta](https://www.umy.ac.id) | S1 Information Technology | Web Developer |
 
 ## Work Experience:
 #### 1. [SOON] |-| Yogyakarta `Maret'2023
