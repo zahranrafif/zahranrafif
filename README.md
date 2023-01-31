@@ -1,4 +1,4 @@
-### Hi there I'M Zahran Rafif - [ZOP-Zahran Rafif] (https://www.youtube.com/channel/UC-PEUpM_S9uGOMV8ytDBp_g)👋
+### Hi there I'M Zahran Rafif - [ZOP-Zahran Rafif] (https://www.youtube.com/@ZOPZahranRafif)👋
 
 <!--
 **zahranrafif/zahranrafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
