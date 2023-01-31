@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Here is my stats
 <p align="left"><img src="https://www.codewars.com/users/zahranrafif/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=zahranrafif&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=zahranrafif&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br /> <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahranrafif&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahranrafif&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
