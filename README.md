@@ -1,4 +1,4 @@
-### Hi there I'M Zahran Rafif - [ZOP-Zahran Rafif](https://www.youtube.com/@ZOPZahranRafif)👋
+## Hi there I'M Zahran Rafif - [ZOP-Zahran Rafif](https://www.youtube.com/@ZOPZahranRafif)👋
 
 <!--
 **zahranrafif/zahranrafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 #### 1. [Universitas Muhammadiyah Yogyakarta](https://www.umy.ac.id) | S1 Information Technology | Web Developer |
 
 ## Work Experience:
-#### 1. [SOON] |-| Yogyakarta `Maret'2023
+#### 1. [SOON] |-| Yogyakarta Maret 2023
 
-## Here is my stats
+## Here is my stats :
 <p align="left"><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=zahranrafif&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahranrafif&theme=monokai"/><br />
