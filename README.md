@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### 1. [Universitas Muhammadiyah Yogyakarta](https://www.umy.ac.id) | S1 Information Technology | Web Developer |
 
 ## Work Experience:
-#### 1. [SOON] |-| Yogyakarta Maret 2023
+#### 1. [CV.Creative Gama Studio] |-| Yogyakarta Maret - April 2023
 
 ## Here is my stats :
 <p align="left"><br /><br />
